@@ -8,4 +8,4 @@ Step 2:
 Run Intruder.
 
 Step 3:
-Click anywhere after running and move along the desired access. 
+Click anywhere after running and move along the desired axes. 
